@@ -1,0 +1,5 @@
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPhamacy.Entity\bin\Debug\HomeoPathPhamacy.Entity.dll
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPhamacy.Entity\bin\Debug\HomeoPathPhamacy.Entity.pdb
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPhamacy.Entity\obj\Debug\HomeoPathPhamacy.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPhamacy.Entity\obj\Debug\HomeoPathPhamacy.Entity.dll
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPhamacy.Entity\obj\Debug\HomeoPathPhamacy.Entity.pdb

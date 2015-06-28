@@ -1,0 +1,5 @@
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPharmacy.Framework\bin\Debug\HomeoPathPharmacy.Framework.dll
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPharmacy.Framework\bin\Debug\HomeoPathPharmacy.Framework.pdb
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPharmacy.Framework\obj\Debug\HomeoPathPharmacy.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPharmacy.Framework\obj\Debug\HomeoPathPharmacy.Framework.dll
+C:\Users\Ali Ahmed\documents\visual studio 2012\Projects\HomeoPathPharmacy\HomeoPathPharmacy.Framework\obj\Debug\HomeoPathPharmacy.Framework.pdb
